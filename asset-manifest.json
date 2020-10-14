@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PartyPlanner/static/css/main.f9e31419.chunk.css",
+    "main.js": "/PartyPlanner/static/js/main.cd1bcfdd.chunk.js",
+    "main.js.map": "/PartyPlanner/static/js/main.cd1bcfdd.chunk.js.map",
+    "runtime-main.js": "/PartyPlanner/static/js/runtime-main.83d305a7.js",
+    "runtime-main.js.map": "/PartyPlanner/static/js/runtime-main.83d305a7.js.map",
+    "static/js/2.4236ed0f.chunk.js": "/PartyPlanner/static/js/2.4236ed0f.chunk.js",
+    "static/js/2.4236ed0f.chunk.js.map": "/PartyPlanner/static/js/2.4236ed0f.chunk.js.map",
+    "index.html": "/PartyPlanner/index.html",
+    "precache-manifest.8e6b0e91ce0d358b3de1179dca37bbbe.js": "/PartyPlanner/precache-manifest.8e6b0e91ce0d358b3de1179dca37bbbe.js",
+    "service-worker.js": "/PartyPlanner/service-worker.js",
+    "static/css/main.f9e31419.chunk.css.map": "/PartyPlanner/static/css/main.f9e31419.chunk.css.map",
+    "static/js/2.4236ed0f.chunk.js.LICENSE.txt": "/PartyPlanner/static/js/2.4236ed0f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83d305a7.js",
+    "static/js/2.4236ed0f.chunk.js",
+    "static/css/main.f9e31419.chunk.css",
+    "static/js/main.cd1bcfdd.chunk.js"
+  ]
+}
